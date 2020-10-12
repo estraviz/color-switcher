@@ -1,3 +1,9 @@
+# Color Switcher
+
+This is my first React app (really simple) created following this [awesome tutorial](https://www.youtube.com/watch?v=9DFjKFMdboc).
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
