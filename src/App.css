@@ -23,12 +23,32 @@ button {
     color: white;
 }
 
-.blue {
-    background-color: blue;
+.orange {
+    background-color: orange;
     color: white;
 }
 
 .yellow {
     background-color: yellow;
+    color: black;
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+}
+
+.indigo {
+    background-color: indigo;
+    color: white;
+}
+
+.violet {
+    background-color: violet;
     color: black;
 }

@@ -2,6 +2,8 @@
 
 This is my first React app (really simple) created following this [awesome tutorial](https://www.youtube.com/watch?v=9DFjKFMdboc).
 
+The application is now live [here](https://master.d1vntsfu520o01.amplifyapp.com/), which has also allowed me to test [AWS Amplify](https://aws.amazon.com/es/amplify/) for the first time.
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

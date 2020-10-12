@@ -9,8 +9,12 @@ function App() {
         <div className='centered'>
             <h1>Color Picker</h1>
             <ColorChangeButton color='red' setColor={setColor} />
-            <ColorChangeButton color='blue' setColor={setColor} />
+            <ColorChangeButton color='orange' setColor={setColor} />
             <ColorChangeButton color='yellow' setColor={setColor} />
+            <ColorChangeButton color='green' setColor={setColor} />
+            <ColorChangeButton color='blue' setColor={setColor} />
+            <ColorChangeButton color='indigo' setColor={setColor} />
+            <ColorChangeButton color='violet' setColor={setColor} />
         </div>
     </div>
   )
